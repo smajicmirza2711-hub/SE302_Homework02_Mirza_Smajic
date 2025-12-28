@@ -1,0 +1,8 @@
+{
+  "name": "se302-homework02",
+  "version": "1.0.0",
+  "description": "Playwright Automation for Toolshop",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
